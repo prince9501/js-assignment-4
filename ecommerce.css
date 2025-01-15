@@ -1,0 +1,39 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body{
+ margin: 10px;
+ border-end-end-radius: unset;
+
+}
+
+.nav_bg{
+    background-color:rgba(220, 215, 215, 0.283) ;
+}
+
+.container-fluid{
+   
+    margin: 20px;
+    width:max-content;
+    height: 35px;
+    
+    
+}
+
+.carousel-inner{
+    
+    max-width:1200px;
+    height:auto;
+    margin-bottom: 20px;
+}
+
+
+
+
+
+
+
+
